@@ -5,6 +5,7 @@
 ```bash
 git clone git@github.com:NankuF/frontend_hh.git
 cd frontend_hh
+cd frontend-hh
 npm install
 npm start
 ```
