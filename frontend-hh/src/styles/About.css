@@ -1,0 +1,9 @@
+.about-container {
+  background-color: #fff0f5;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.about-container h1 {
+  color: #dc3545;
+}
